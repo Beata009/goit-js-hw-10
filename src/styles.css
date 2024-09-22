@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#search-box {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#country-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#country-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#country-list img {
+    margin-right: 10px;
+}
+
+.country-info h2 {
+    display: flex;
+    align-items: center;
+}
+
+.country-info img {
+    margin-right: 10px;
+}
